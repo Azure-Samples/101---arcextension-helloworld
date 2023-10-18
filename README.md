@@ -2,7 +2,7 @@
 This sample guides you through the full development flow. Follow this README to get familiar with the processes to setup your dev environment and build/deploy/validate sample codes using the Azure Arc VS code extension or command line options.
 
 ## Recommended Dev Environment Setup
-- Visual Studio Code with [Azure Arc Extension](https://marketplace.visualstudio.com/search?term=azure%20arc&target=VSCode&category=All%20categories&sortBy=Relevance) from VS code marketplace installed to simplify some development steps
+- [Azure Arc Visual Studio Code Extension](https://marketplace.visualstudio.com/search?term=azure%20arc&target=VSCode&category=All%20categories&sortBy=Relevance) from VS code marketplace installed to simplify some development steps
 - Docker desktop or other containerization engine
     - Please make sure the docker desktop is running in Linux Container. If not, please right click the Docker Icon and select switch to Linux containers.
     ![SwichToLinux](https://raw.githubusercontent.com/Azure-Samples/101---arcextension-helloworld/main/screenshots/SwitchToLinux.png)
